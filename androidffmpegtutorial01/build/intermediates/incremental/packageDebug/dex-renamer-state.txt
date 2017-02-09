@@ -1,0 +1,7 @@
+#Thu Feb 09 09:46:58 CST 2017
+base.0=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_46c28c9027ee0a67c330dbf0ab614762c641eb8b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98669fafe697bc74949e88adf259022c22f59175/classes.dex
+base.1=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98669fafe697bc74949e88adf259022c22f59175
+file.0=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_46c28c9027ee0a67c330dbf0ab614762c641eb8b/classes.dex

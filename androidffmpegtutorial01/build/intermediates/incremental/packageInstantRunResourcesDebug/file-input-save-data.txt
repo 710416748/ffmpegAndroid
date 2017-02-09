@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Feb 08 15:36:46 CST 2017
+2.base=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/res/resources-debug.ap_
+5.file=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/assets/debug/1.mp4
+5.set=ASSET
+3.base=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/assets/debug
+count=6
+0.file=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.base=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/assets/debug
+4.set=ASSET
+1.file=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.base=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/res/resources-debug.ap_
+3.file=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/res/resources-debug.ap_
+4.file=/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/assets/debug/12.mp4
+0.set=ANDROID_RESOURCE

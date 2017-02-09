@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="24"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="227365423051021"
+    token="-3762989114143100568"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="159" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="21" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="226737699960278"
+        verifier="JAVA_RESOURCES_CHANGED" >
+        <artifact
+            location="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/outputs/apk/androidffmpegtutorial01-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="227365423051021"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

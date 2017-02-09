@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4c3b3bd3339c48e363da87d073aeb07f5a5209e">
+        <dex dex="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_46c28c9027ee0a67c330dbf0ab614762c641eb8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b0a1ca87de34a3177a53a5feb538ef7371dc0d9">
+        <dex dex="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98669fafe697bc74949e88adf259022c22f59175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/home/ts/AndroidStudioProjects/android-ffmpeg-tutorial02/androidffmpegtutorial01/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_e7b3587e1bc65db0ffe917a2235f48d27674307c/classes.dex" />
+    </item>
+
+</items>
