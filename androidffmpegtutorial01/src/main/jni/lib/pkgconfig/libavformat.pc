@@ -1,0 +1,14 @@
+prefix=/home/ts/software/AndroidStudio/Android/Ndk/android-ndk-r9c/sources/ffmpeg/android
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavformat
+Description: FFmpeg container format library
+Version: 57.56.100
+Requires: 
+Requires.private: libavcodec >= 57.64.101, libswresample >= 2.3.100, libavutil >= 55.34.100
+Conflicts:
+Libs: -L${libdir}  -lavformat 
+Libs.private: -lm -lz -pthread
+Cflags: -I${includedir}
